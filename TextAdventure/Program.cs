@@ -10,8 +10,14 @@ namespace TextAdventure
     {
         static void Main(string[] args)
         {
-            PlayerStats playerStats = new PlayerStats("Martin");
-            Console.WriteLine(playerStats.Name);
+            Console.WriteLine("What is your name?");
+            PlayerStats newPlayer = new PlayerStats(Console.ReadLine(), 100, null);
+            Console.Write("Welcome ");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine(newPlayer.Name);
+            Console.ResetColor();
+            Console.WriteLine("Your health is: " + newPlayer.Health);
+            Console.WriteLine("Your items are: " + newPlayer.Items);
             Console.ReadKey();
         }
     }

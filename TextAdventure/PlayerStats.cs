@@ -1,11 +1,15 @@
 ﻿namespace TextAdventure
 {
-    internal class PlayerStats
+    public class PlayerStats
     {
         public string Name { get; set; }
-        public PlayerStats(string name)
+        public int Health { get; set; }
+        public Item[] Items { get; set; }
+        public PlayerStats(string name, int health, Item[] items)
         {
-            this.Name = name;
+            Name = name;
+            Health = health;
+            Items = items;
         }
     }
 }
