@@ -1,7 +1,8 @@
 C:\Users\artin\source\repos\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
 C:\Users\artin\source\repos\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
 C:\Users\artin\source\repos\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
-C:\Users\artin\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojAssemblyReference.cache
 C:\Users\artin\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csproj.CoreCompileInputs.cache
 C:\Users\artin\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
 C:\Users\artin\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+C:\Users\artin\source\repos\TextAdventure\TextAdventure\bin\Debug\TextFiles\Welcome.txt
+C:\Users\artin\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojAssemblyReference.cache
